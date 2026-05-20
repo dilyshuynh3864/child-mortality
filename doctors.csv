@@ -1,0 +1,195 @@
+ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period,IsLatestYear,FactValueNumeric,Value,Language
+EMR,Eastern Mediterranean,Country,AFG,Afghanistan,2023,TRUE,3.17,3.17,EN
+EUR,Europe,Country,ALB,Albania,2020,TRUE,18.79,18.79,EN
+AFR,Africa,Country,DZA,Algeria,2022,TRUE,16.6,16.6,EN
+EUR,Europe,Country,AND,Andorra,2023,TRUE,50.68,50.68,EN
+AFR,Africa,Country,AGO,Angola,2022,TRUE,2.44,2.44,EN
+AMR,Americas,Country,ATG,Antigua and Barbuda,2017,TRUE,29.17,29.17,EN
+AMR,Americas,Country,ARG,Argentina,2023,TRUE,51.06,51.06,EN
+EUR,Europe,Country,ARM,Armenia,2022,TRUE,33.6,33.6,EN
+WPR,Western Pacific,Country,AUS,Australia,2022,TRUE,40.86,40.86,EN
+EUR,Europe,Country,AUT,Austria,2023,TRUE,55.15,55.15,EN
+EUR,Europe,Country,AZE,Azerbaijan,2022,TRUE,31.85,31.85,EN
+AMR,Americas,Country,BHS,Bahamas,2017,TRUE,18.95,18.95,EN
+EMR,Eastern Mediterranean,Country,BHR,Bahrain,2020,TRUE,7.41,7.41,EN
+SEAR,South-East Asia,Country,BGD,Bangladesh,2023,TRUE,7.22,7.22,EN
+AMR,Americas,Country,BRB,Barbados,2022,TRUE,29.58,29.58,EN
+EUR,Europe,Country,BLR,Belarus,2023,TRUE,47.17,47.17,EN
+EUR,Europe,Country,BEL,Belgium,2023,TRUE,65.25,65.25,EN
+AMR,Americas,Country,BLZ,Belize,2018,TRUE,10.86,10.86,EN
+AFR,Africa,Country,BEN,Benin,2023,TRUE,2.16,2.16,EN
+SEAR,South-East Asia,Country,BTN,Bhutan,2022,TRUE,5.53,5.53,EN
+AMR,Americas,Country,BOL,Bolivia (Plurinational State of),2021,TRUE,12.84,12.84,EN
+EUR,Europe,Country,BIH,Bosnia and Herzegovina,2019,TRUE,25.84,25.84,EN
+AFR,Africa,Country,BWA,Botswana,2023,TRUE,3.79,3.79,EN
+AMR,Americas,Country,BRA,Brazil,2023,TRUE,23.57,23.57,EN
+WPR,Western Pacific,Country,BRN,Brunei Darussalam,2021,TRUE,18.86,18.86,EN
+EUR,Europe,Country,BGR,Bulgaria,2022,TRUE,43.28,43.28,EN
+AFR,Africa,Country,BFA,Burkina Faso,2022,TRUE,1.48,1.48,EN
+AFR,Africa,Country,BDI,Burundi,2022,TRUE,0.78,0.78,EN
+AFR,Africa,Country,CPV,Cabo Verde,2023,TRUE,7.3,7.3,EN
+WPR,Western Pacific,Country,KHM,Cambodia,2019,TRUE,2.11,2.11,EN
+AFR,Africa,Country,CMR,Cameroon,2022,TRUE,1.36,1.36,EN
+AMR,Americas,Country,CAN,Canada,2023,TRUE,28.19,28.19,EN
+AFR,Africa,Country,CAF,Central African Republic,2023,TRUE,0.74,0.74,EN
+AFR,Africa,Country,TCD,Chad,2023,TRUE,0.85,0.85,EN
+AMR,Americas,Country,CHL,Chile,2023,TRUE,33.34,33.34,EN
+WPR,Western Pacific,Country,CHN,China,2022,TRUE,31.12,31.12,EN
+AMR,Americas,Country,COL,Colombia,2023,TRUE,25.35,25.35,EN
+AFR,Africa,Country,COM,Comoros,2022,TRUE,4.24,4.24,EN
+AFR,Africa,Country,COG,Congo,2022,TRUE,1.73,1.73,EN
+WPR,Western Pacific,Country,COK,Cook Islands,2020,TRUE,16.67,16.67,EN
+AMR,Americas,Country,CRI,Costa Rica,2022,TRUE,26.87,26.87,EN
+AFR,Africa,Country,CIV,Cote d'Ivoire,2023,TRUE,1.66,1.66,EN
+EUR,Europe,Country,HRV,Croatia,2022,TRUE,39.09,39.09,EN
+AMR,Americas,Country,CUB,Cuba,2021,TRUE,95.42,95.42,EN
+EUR,Europe,Country,CYP,Cyprus,2022,TRUE,35.56,35.56,EN
+EUR,Europe,Country,CZE,Czechia,2022,TRUE,43.52,43.52,EN
+SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,2017,TRUE,36.28,36.28,EN
+AFR,Africa,Country,COD,Democratic Republic of the Congo,2022,TRUE,2.08,2.08,EN
+EUR,Europe,Country,DNK,Denmark,2021,TRUE,44.98,44.98,EN
+EMR,Eastern Mediterranean,Country,DJI,Djibouti,2022,TRUE,2.11,2.11,EN
+AMR,Americas,Country,DMA,Dominica,2018,TRUE,11.58,11.58,EN
+AMR,Americas,Country,DOM,Dominican Republic,2023,TRUE,24.26,24.26,EN
+AMR,Americas,Country,ECU,Ecuador,2020,TRUE,23.13,23.13,EN
+EMR,Eastern Mediterranean,Country,EGY,Egypt,2020,TRUE,6.71,6.71,EN
+AMR,Americas,Country,SLV,El Salvador,2023,TRUE,16.16,16.16,EN
+AFR,Africa,Country,GNQ,Equatorial Guinea,2022,TRUE,1.53,1.53,EN
+AFR,Africa,Country,ERI,Eritrea,2022,TRUE,0.88,0.88,EN
+EUR,Europe,Country,EST,Estonia,2022,TRUE,34.69,34.69,EN
+AFR,Africa,Country,SWZ,Eswatini,2023,TRUE,5.57,5.57,EN
+AFR,Africa,Country,ETH,Ethiopia,2023,TRUE,1.43,1.43,EN
+WPR,Western Pacific,Country,FJI,Fiji,2015,TRUE,8.13,8.13,EN
+EUR,Europe,Country,FIN,Finland,2021,TRUE,36.09,36.09,EN
+EUR,Europe,Country,FRA,France,2022,TRUE,32.81,32.81,EN
+AFR,Africa,Country,GAB,Gabon,2022,TRUE,5.21,5.21,EN
+AFR,Africa,Country,GMB,Gambia,2023,TRUE,0.9,0.9,EN
+EUR,Europe,Country,GEO,Georgia,2023,TRUE,56.42,56.42,EN
+EUR,Europe,Country,DEU,Germany,2022,TRUE,45.34,45.34,EN
+AFR,Africa,Country,GHA,Ghana,2023,TRUE,2.66,2.66,EN
+EUR,Europe,Country,GRC,Greece,2022,TRUE,65.76,65.76,EN
+AMR,Americas,Country,GRD,Grenada,2018,TRUE,13.83,13.83,EN
+AMR,Americas,Country,GTM,Guatemala,2020,TRUE,12.81,12.81,EN
+AFR,Africa,Country,GIN,Guinea,2022,TRUE,2.1,2.1,EN
+AFR,Africa,Country,GNB,Guinea-Bissau,2022,TRUE,2.52,2.52,EN
+AMR,Americas,Country,GUY,Guyana,2020,TRUE,13.87,13.87,EN
+AMR,Americas,Country,HTI,Haiti,2022,TRUE,2.92,2.92,EN
+AMR,Americas,Country,HND,Honduras,2020,TRUE,4.89,4.89,EN
+EUR,Europe,Country,HUN,Hungary,2022,TRUE,34.56,34.56,EN
+EUR,Europe,Country,ISL,Iceland,2023,TRUE,43.73,43.73,EN
+SEAR,South-East Asia,Country,IND,India,2020,TRUE,7.23,7.23,EN
+SEAR,South-East Asia,Country,IDN,Indonesia,2023,TRUE,5.24,5.24,EN
+EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),2023,TRUE,18.11,18.11,EN
+EMR,Eastern Mediterranean,Country,IRQ,Iraq,2022,TRUE,10.22,10.22,EN
+EUR,Europe,Country,IRL,Ireland,2023,TRUE,38.75,38.75,EN
+EUR,Europe,Country,ISR,Israel,2023,TRUE,37.97,37.97,EN
+EUR,Europe,Country,ITA,Italy,2022,TRUE,41.91,41.91,EN
+AMR,Americas,Country,JAM,Jamaica,2023,TRUE,4.6,4.6,EN
+WPR,Western Pacific,Country,JPN,Japan,2022,TRUE,26.49,26.49,EN
+EMR,Eastern Mediterranean,Country,JOR,Jordan,2022,TRUE,28.51,28.51,EN
+EUR,Europe,Country,KAZ,Kazakhstan,2023,TRUE,37.54,37.54,EN
+AFR,Africa,Country,KEN,Kenya,2023,TRUE,2.89,2.89,EN
+WPR,Western Pacific,Country,KIR,Kiribati,2013,TRUE,1.93,1.93,EN
+EMR,Eastern Mediterranean,Country,KWT,Kuwait,2020,TRUE,22.73,22.73,EN
+EUR,Europe,Country,KGZ,Kyrgyzstan,2023,TRUE,15.68,15.68,EN
+WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,2022,TRUE,3.31,3.31,EN
+EUR,Europe,Country,LVA,Latvia,2022,TRUE,33.98,33.98,EN
+EMR,Eastern Mediterranean,Country,LBN,Lebanon,2020,TRUE,26.8,26.8,EN
+AFR,Africa,Country,LSO,Lesotho,2022,TRUE,2.35,2.35,EN
+AFR,Africa,Country,LBR,Liberia,2022,TRUE,1.78,1.78,EN
+EMR,Eastern Mediterranean,Country,LBY,Libya,2017,TRUE,20.42,20.42,EN
+EUR,Europe,Country,LTU,Lithuania,2023,TRUE,61.04,61.04,EN
+EUR,Europe,Country,LUX,Luxembourg,2017,TRUE,29.84,29.84,EN
+AFR,Africa,Country,MDG,Madagascar,2022,TRUE,1.72,1.72,EN
+AFR,Africa,Country,MWI,Malawi,2022,TRUE,0.54,0.54,EN
+WPR,Western Pacific,Country,MYS,Malaysia,2023,TRUE,23.41,23.41,EN
+SEAR,South-East Asia,Country,MDV,Maldives,2019,TRUE,22.35,22.35,EN
+AFR,Africa,Country,MLI,Mali,2023,TRUE,1.88,1.88,EN
+EUR,Europe,Country,MLT,Malta,2022,TRUE,45.13,45.13,EN
+WPR,Western Pacific,Country,MHL,Marshall Islands,2012,TRUE,4.67,4.67,EN
+AFR,Africa,Country,MRT,Mauritania,2022,TRUE,2.61,2.61,EN
+AFR,Africa,Country,MUS,Mauritius,2022,TRUE,14.36,14.36,EN
+AMR,Americas,Country,MEX,Mexico,2022,TRUE,25.88,25.88,EN
+WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),2020,TRUE,9.74,9.74,EN
+EUR,Europe,Country,MCO,Monaco,2020,TRUE,86.09,86.09,EN
+WPR,Western Pacific,Country,MNG,Mongolia,2022,TRUE,41.3,41.3,EN
+EUR,Europe,Country,MNE,Montenegro,2023,TRUE,27.83,27.83,EN
+EMR,Eastern Mediterranean,Country,MAR,Morocco,2021,TRUE,7.4,7.4,EN
+AFR,Africa,Country,MOZ,Mozambique,2022,TRUE,1.75,1.75,EN
+SEAR,South-East Asia,Country,MMR,Myanmar,2019,TRUE,7.57,7.57,EN
+AFR,Africa,Country,NAM,Namibia,2022,TRUE,5.53,5.53,EN
+WPR,Western Pacific,Country,NRU,Nauru,2015,TRUE,12.73,12.73,EN
+SEAR,South-East Asia,Country,NPL,Nepal,2023,TRUE,10.11,10.11,EN
+EUR,Europe,Country,NLD,Netherlands (Kingdom of the),2022,TRUE,38.76,38.76,EN
+WPR,Western Pacific,Country,NZL,New Zealand,2022,TRUE,36.11,36.11,EN
+AMR,Americas,Country,NIC,Nicaragua,2018,TRUE,6.82,6.82,EN
+AFR,Africa,Country,NER,Niger,2023,TRUE,0.38,0.38,EN
+AFR,Africa,Country,NGA,Nigeria,2023,TRUE,3.8,3.8,EN
+WPR,Western Pacific,Country,NIU,Niue,2008,TRUE,16.67,16.67,EN
+EUR,Europe,Country,MKD,North Macedonia,2022,TRUE,29.44,29.44,EN
+EUR,Europe,Country,NOR,Norway,2023,TRUE,49.75,49.75,EN
+EMR,Eastern Mediterranean,Country,OMN,Oman,2022,TRUE,19.92,19.92,EN
+EMR,Eastern Mediterranean,Country,PAK,Pakistan,2021,TRUE,11.6,11.6,EN
+WPR,Western Pacific,Country,PLW,Palau,2023,TRUE,18.08,18.08,EN
+AMR,Americas,Country,PAN,Panama,2022,TRUE,16.25,16.25,EN
+WPR,Western Pacific,Country,PNG,Papua New Guinea,2023,TRUE,0.61,0.61,EN
+AMR,Americas,Country,PRY,Paraguay,2022,TRUE,38.93,38.93,EN
+AMR,Americas,Country,PER,Peru,2023,TRUE,16.88,16.88,EN
+WPR,Western Pacific,Country,PHL,Philippines,2021,TRUE,7.92,7.92,EN
+EUR,Europe,Country,POL,Poland,2023,TRUE,40.31,40.31,EN
+EUR,Europe,Country,PRT,Portugal,2022,TRUE,58.51,58.51,EN
+EMR,Eastern Mediterranean,Country,QAT,Qatar,2023,TRUE,30.22,30.22,EN
+WPR,Western Pacific,Country,KOR,Republic of Korea,2022,TRUE,26.1,26.1,EN
+EUR,Europe,Country,MDA,Republic of Moldova,2023,TRUE,40.16,40.16,EN
+EUR,Europe,Country,ROU,Romania,2022,TRUE,36.25,36.25,EN
+EUR,Europe,Country,RUS,Russian Federation,2022,TRUE,51.11,51.11,EN
+AFR,Africa,Country,RWA,Rwanda,2022,TRUE,0.9,0.9,EN
+AMR,Americas,Country,KNA,Saint Kitts and Nevis,2018,TRUE,30.85,30.85,EN
+AMR,Americas,Country,LCA,Saint Lucia,2020,TRUE,42.34,42.34,EN
+AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,2012,TRUE,9.38,9.38,EN
+WPR,Western Pacific,Country,WSM,Samoa,2021,TRUE,5.61,5.61,EN
+EUR,Europe,Country,SMR,San Marino,2023,TRUE,46.29,46.29,EN
+AFR,Africa,Country,STP,Sao Tome and Principe,2022,TRUE,4.64,4.64,EN
+EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,2023,TRUE,34.06,34.06,EN
+AFR,Africa,Country,SEN,Senegal,2023,TRUE,1.09,1.09,EN
+EUR,Europe,Country,SRB,Serbia,2022,TRUE,30.99,30.99,EN
+AFR,Africa,Country,SYC,Seychelles,2022,TRUE,65.98,65.98,EN
+AFR,Africa,Country,SLE,Sierra Leone,2022,TRUE,1.34,1.34,EN
+WPR,Western Pacific,Country,SGP,Singapore,2022,TRUE,28.34,28.34,EN
+EUR,Europe,Country,SVK,Slovakia,2022,TRUE,36.97,36.97,EN
+EUR,Europe,Country,SVN,Slovenia,2022,TRUE,33.67,33.67,EN
+WPR,Western Pacific,Country,SLB,Solomon Islands,2023,TRUE,2.38,2.38,EN
+EMR,Eastern Mediterranean,Country,SOM,Somalia,2014,TRUE,0.48,0.48,EN
+AFR,Africa,Country,ZAF,South Africa,2022,TRUE,7.94,7.94,EN
+AFR,Africa,Country,SSD,South Sudan,2022,TRUE,0.41,0.41,EN
+EUR,Europe,Country,ESP,Spain,2022,TRUE,42.94,42.94,EN
+SEAR,South-East Asia,Country,LKA,Sri Lanka,2023,TRUE,11.36,11.36,EN
+EMR,Eastern Mediterranean,Country,SDN,Sudan,2017,TRUE,2.5,2.5,EN
+AMR,Americas,Country,SUR,Suriname,2023,TRUE,13.55,13.55,EN
+EUR,Europe,Country,SWE,Sweden,2021,TRUE,44.08,44.08,EN
+EUR,Europe,Country,CHE,Switzerland,2022,TRUE,44.77,44.77,EN
+EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,2021,TRUE,15.21,15.21,EN
+EUR,Europe,Country,TJK,Tajikistan,2023,TRUE,18.7,18.7,EN
+SEAR,South-East Asia,Country,THA,Thailand,2021,TRUE,5.41,5.41,EN
+SEAR,South-East Asia,Country,TLS,Timor-Leste,2020,TRUE,7.52,7.52,EN
+AFR,Africa,Country,TGO,Togo,2022,TRUE,0.8,0.8,EN
+WPR,Western Pacific,Country,TON,Tonga,2021,TRUE,10.14,10.14,EN
+AMR,Americas,Country,TTO,Trinidad and Tobago,2021,TRUE,41.57,41.57,EN
+EMR,Eastern Mediterranean,Country,TUN,Tunisia,2021,TRUE,13.15,13.15,EN
+EUR,Europe,Country,TUR,Türkiye,2022,TRUE,22.36,22.36,EN
+EUR,Europe,Country,TKM,Turkmenistan,2023,TRUE,19.3,19.3,EN
+WPR,Western Pacific,Country,TUV,Tuvalu,2020,TRUE,13.46,13.46,EN
+AFR,Africa,Country,UGA,Uganda,2022,TRUE,1.91,1.91,EN
+EUR,Europe,Country,UKR,Ukraine,2023,TRUE,35.31,35.31,EN
+EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,2023,TRUE,29.92,29.92,EN
+EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,2023,TRUE,33.01,33.01,EN
+AFR,Africa,Country,TZA,United Republic of Tanzania,2022,TRUE,1.34,1.34,EN
+AMR,Americas,Country,USA,United States of America,2022,TRUE,36.81,36.81,EN
+AMR,Americas,Country,URY,Uruguay,2022,TRUE,46.74,46.74,EN
+EUR,Europe,Country,UZB,Uzbekistan,2020,TRUE,23.1,23.1,EN
+WPR,Western Pacific,Country,VUT,Vanuatu,2019,TRUE,1.64,1.64,EN
+AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),2017,TRUE,16.64,16.64,EN
+WPR,Western Pacific,Country,VNM,Viet Nam,2021,TRUE,11.07,11.07,EN
+EMR,Eastern Mediterranean,Country,YEM,Yemen,2023,TRUE,0.98,0.98,EN
+AFR,Africa,Country,ZMB,Zambia,2022,TRUE,3.24,3.24,EN
+AFR,Africa,Country,ZWE,Zimbabwe,2023,TRUE,1.36,1.36,EN

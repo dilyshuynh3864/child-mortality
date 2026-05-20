@@ -1,0 +1,268 @@
+/* custom.css */
+slides > slide {
+  max-width: 100%;
+  padding: 1em 2em;
+}
+
+/* Make plot images scale nicely */
+.reveal section img,
+.reveal section canvas,
+.reveal section svg {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: auto;
+}
+
+body {
+  font-size: 1.4em;
+}
+
+h1 {
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: navy;
+}
+
+.title_slide {
+  color: red;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0
+  position: relative;
+  z-index: 10;
+}
+
+.title_slide4 {
+  color: red;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0
+  position: relative;
+  z-index: 10;
+}
+.title_slide6 {
+  color: red;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 10;
+}
+
+.plot{
+  margin-top: -1em;
+  position: relative;
+  z-index: 1;
+}
+
+.plot4{
+  margin-top: -1em;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.plot2{
+  margin-top: -1.2em;
+  position: relative;
+  z-index: 1;
+}
+
+.plot6 {
+  position: absolute;
+  top: 1%;
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Adjust for exact centering */
+  z-index: 1;
+  width: 80%; /* Adjust width as needed */
+  height: auto; /* Adjust height as needed, or use a fixed pixel value */
+}
+.plot8{
+  margin-top: -1em;
+  position: relative;
+  z-index: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.plot9{
+  margin-top: -1em;
+}
+
+.title_plot{
+  color: navy;
+  text-align: center;
+  font-size: 0.8em;
+  position: relative;
+  z-index: 10;
+}
+
+.title_plot2 {
+  color: navy;
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: -0.3em;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 10;
+}
+
+.title_plot4{
+  color: navy;
+  font-size: 0.8em;
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: -3.3em;
+}
+
+.title_plot7 {
+  color: navy;
+  text-align: center;
+  font-size: 0.7em;
+  margin-top: -4.4em;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 10;
+}
+
+.insight_text {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -1em;
+}
+
+.insight_text2 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -1em;
+}
+
+.insight_text3 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -0.5em;
+}
+
+
+.title_plot3 {
+  color: navy;
+  text-align: center;
+  font-size: 0.7em;
+  margin-bottom: 0;
+  margin-top: -6em;
+  position: relative;
+  z-index: 1;
+}
+.title_plot6 {
+  color: navy;
+  text-align: center;
+  font-size: 0.8em;;
+  margin-bottom: 0em;
+  position: relative;
+  z-index: 10;
+}
+.insight_text_slide4 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -0.5em;
+}
+.insight_text_slide5 {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -5em;
+}
+.insight_text_slide6 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  position: relative;   
+  z-index: 10;
+  margin-bottom: 1em;
+}
+
+.insight_text_slide8 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -1.2em;
+  position: relative;   
+  z-index: 10;     
+}
+
+.insight_text_slide9 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Times New Roman", serif;
+  margin-top: -4.5em;
+}
+
+.title_slide1 {
+  background-image: url("map_background.png");
+  background-size: cover;
+  background-position: center;
+  color: lightgray; 
+  text-align: center;
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2em;
+}
+
+.title_slide1 h1 {
+font-size: 4em;
+font-weight: bold;
+color: navy;
+margin-bottom: 0.05em;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.title_slide1 h2 {
+font-size: 3em;
+font-weight: bold;
+color: darkslategray;
+margin-bottom: 0.05em;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.title_slide1 h3 {
+font-size: 2.5em;
+color: darkslategray;
+margin-bottom: 0.05em;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.title_slide1 p {
+font-size: 1em;
+color: black;
+margin-top: 3em;
+text-align: left;
+line-height: 1.5;
+}
+
+.conclusion_text {
+  font-size: 1rem;
+  line-height: 1.2;
+  font-family: "Times New Roman", serif;
+  margin-top: -0.5em;
+}
+.conclusion_slide {
+  color: navy;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: 0;
+}
